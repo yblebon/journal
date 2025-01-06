@@ -13,6 +13,7 @@ Welcome to Yasser B. Lebon Journal!
 
 06 Jan 2024
 -----------
+Coffee time, personal projects, job hunting
 
 .. note::
 
