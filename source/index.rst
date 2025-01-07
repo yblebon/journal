@@ -15,6 +15,10 @@ Welcome to Yasser B. Lebon Journal!
 -----------
 Coffee time, personal projects, job hunting
 
+07 Jan 2024
+-----------
+McDo & Poop Psyop day
+
 .. note::
 
    This project is under active development.
