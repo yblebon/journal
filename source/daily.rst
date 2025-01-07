@@ -3,17 +3,24 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-
-
-Welcome to Yasser B. Lebon Journal!
-===================================
-
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :caption: Contents:
 
-   daily 
-   topics
+
+
+Journal: daily notes
+===================================
+
+
+06 Jan 2024
+-----------
+Coffee time, personal projects, job hunting
+
+07 Jan 2024
+-----------
+McDo & Poop Psyop day
+
 .. note::
 
    This project is under active development.
