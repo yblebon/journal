@@ -10,7 +10,7 @@
 
 
 Journal: daily notes
-===================================
+===================================C
 
 
 06 Jan 2024
@@ -20,6 +20,10 @@ Coffee time, personal projects, job hunting
 07 Jan 2024
 -----------
 McDo & Poop Psyop day
+
+08 Jan 2024
+-----------
+Coffee time, Mediatheque, Walk, Personal projects 
 
 .. note::
 
