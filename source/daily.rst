@@ -25,6 +25,9 @@ McDo & Poop Psyop day
 -----------
 Coffee time, Mediatheque, Walk, Personal projects 
 
+09 Jan 2024
+-----------
+
 .. note::
 
    This project is under active development.
