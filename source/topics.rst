@@ -17,6 +17,9 @@ Journal: Topics
 McDo Poop Psyop
 ---------------
 
+Le problème du journal
+---------------------
+
 .. note::
 
    This project is under active development.
