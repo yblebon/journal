@@ -29,6 +29,10 @@ Coffee time, Mediatheque, Walk, Personal projects
 -----------
 Mediathèque: le probleme du Journal qui gene
 
+10 Jan 2024
+-----------
+Vendredi soir pas de sortis
+
 .. note::
 
    This project is under active development.
