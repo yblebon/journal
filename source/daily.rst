@@ -40,7 +40,7 @@ Samedi Een bierje > "let's tease him a bit with hot topics" > "Drama Drama"
 
 12 Jan 2024
 -----------
-
+Dimanche pas de bierje. Dimanche matin balayage :)
 
 .. note::
 
