@@ -1,3 +1,4 @@
+
 .. journal documentation master file, created by
    sphinx-quickstart on Mon Jan  6 14:46:16 2025.
    You can adapt this file completely to your liking, but it should at least
@@ -34,6 +35,10 @@ Mediathèque: le probleme du Journal qui gene
 Vendredi soir pas de sortis
 
 11 Jan 2024
+-----------
+Samedi Een bierje > "let's tease him a bit with hot topics" > "Drama Drama"
+
+12 Jan 2024
 -----------
 
 
