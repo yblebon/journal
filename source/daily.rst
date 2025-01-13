@@ -42,6 +42,12 @@ Samedi Een bierje > "let's tease him a bit with hot topics" > "Drama Drama"
 -----------
 Dimanche pas de bierje. Dimanche matin balayage :)
 
+13 Jan 2024
+-----------
+A essayer la formule pizza + ice tea le matin, puis une pause cafe en essayant de fixer ce vieux ordi un peu farfelu
+
+
+
 .. note::
 
    This project is under active development.
