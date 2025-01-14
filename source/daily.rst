@@ -42,6 +42,14 @@ Samedi Een bierje > "let's tease him a bit with hot topics" > "Drama Drama"
 -----------
 Dimanche pas de bierje. Dimanche matin balayage :)
 
+13 Jan 2024
+-----------
+Quiet monday
+
+14 Jan 2024
+-----------
+CV, Food, Walk
+
 .. note::
 
    This project is under active development.
