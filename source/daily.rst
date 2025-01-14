@@ -44,7 +44,7 @@ Dimanche pas de bierje. Dimanche matin balayage :)
 
 13 Jan 2024
 -----------
-Quiet monday
+A essayer la formule pizza + ice tea le matin, puis une pause cafe en essayant de fixer ce vieux ordi un peu farfelu
 
 14 Jan 2024
 -----------
