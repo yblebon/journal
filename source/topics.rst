@@ -43,6 +43,8 @@ Diabete & Cholesterol
 Reflexion personelle:
 
 * "On pense à toutes les possibilités ici, quand on n'a pas l'argent on mange ce qu'on vous offre haha" 
+* "s'il y a un gros investissement dans l'usine locale, et quelques ouvertures de magasins pendant l'hiver le peuple va croire qu'il ne depend pas du tourisme. Etant donne que le peuple croira que l'economie de la ville ne repose pas sur le tourisme, ils feront moins attention à l'image de la ville"
+* c'est un peu comme les éléctions en afrique, on offre un peu de cadeaux pendant les periodes d'elections pour flatter le peuple.
 
 .. note::
 
