@@ -38,6 +38,12 @@ Relexion personelle:
 * une fille du moment: Et puis y'a Frida! Qu'est belle comme un soleil! Et qui m'aime pareil Que moi j'aime Frida!
 * pression pression: Parce que chez ces gens-là, Monsieur On n's'en va pas On s'en va pas, Monsieur On s'en va pas 
 
+Diabete & Cholesterol
+---------------------
+Reflexion personelle:
+
+* "On pense à toutes les possibilités ici, quand on n'a pas l'argent on mange ce qu'on vous offre haha" 
+
 .. note::
 
    This project is under active development.
