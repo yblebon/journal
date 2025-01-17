@@ -47,6 +47,11 @@ Reflexion personelle:
 * "un village où il y a quelques histoires morbides ca ne fait toujours pas bonne publicité, et pas bon pour l'economie, mais on a besoin de ce lynchage"
 * c'est un peu comme les éléctions en afrique, on offre un peu de cadeaux pendant les periodes d'elections pour flatter le peuple.
 
+Biden & Elon
+---------------------
+
+The group of people who are building cars, spaceship, freespeech vs the group of people fighting their dementia, and selling balenciaga
+
 .. note::
 
    This project is under active development.

@@ -50,6 +50,11 @@ A essayer la formule pizza + ice tea le matin, puis une pause cafe en essayant d
 -----------
 CV, Food, Walk
 
+17 Jan 2024
+-----------
+* Pasta & legumes
+* Coffee, Job Hunting, Mediathèque, Personal project
+
 .. note::
 
    This project is under active development.
