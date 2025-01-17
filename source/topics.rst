@@ -49,6 +49,7 @@ Reflexion personelle:
 
 Biden & Elon
 ---------------------
+Reflexion personelle:
 
 The group of people who are building cars, spaceship, freespeech vs the group of people fighting their dementia, and selling balenciaga
 
