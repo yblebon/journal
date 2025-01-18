@@ -55,6 +55,11 @@ CV, Food, Walk
 * Pasta & legumes
 * Coffee, Job Hunting, Mediathèque, Personal project
 
+18 Jan 2024
+-----------
+* Sandwich jambon fromage
+* Coffee, Personal Projects, Tweets, Walk, Course
+
 .. note::
 
    This project is under active development.
