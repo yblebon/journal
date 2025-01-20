@@ -53,6 +53,17 @@ Reflexion personelle:
 
 The group of people who are building cars, spaceship, freespeech vs the group of people fighting their dementia, and selling balenciaga
 
+Trump election
+---------------
+Reflexion personelle:
+
+- dans cette semaine pleine de tensions à l'approche de l'investiture de Trump, on sent que la tension monte un peu partout
+- pour l'anniversaire de l'execution de louis XVI, quelques manifestations à Paris
+- certains dirigeants associés à l'empire rouge sont mis sur les projecteurs pour les bonnes ou mauvaises raisons
+- porte du rouge est associé du khmer rouge, pendant que les vrais khmers rouges se cachent comme les anciens nazis en argentine
+
+
+
 .. note::
 
    This project is under active development.
