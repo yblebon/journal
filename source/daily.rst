@@ -63,7 +63,7 @@ CV, Food, Walk
 21 Jan 2024
 -----------
 Reflexion personelle
-* Cleaning, Lunch, Walk, Coffee
+* Cleaning, Lunch, Walk, Coffee, Food Provisionning, Coding, Tweeting
 
 .. note::
 
