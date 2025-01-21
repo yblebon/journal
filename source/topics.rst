@@ -63,6 +63,13 @@ Reflexion personelle:
 - porte du rouge est associé du khmer rouge, pendant que les vrais khmers rouges se cachent comme les anciens nazis en argentine
 
 
+France vs Pays Bas
+------------------
+Reflexion personelle:
+
+* "Nous risquons de limiter l'acces aux transports, pour tout probleme de transport dans l'avenir, vous etes invites a voir avec le secours catholiqu>
+* "Qu'est ce que c'est ce que ce devellopeur en finance qui va au secours catholique"
+* Quand le respect de la dignité est beaucoup plus basé sur le paraitre
 
 .. note::
 

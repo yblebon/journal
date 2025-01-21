@@ -60,6 +60,11 @@ CV, Food, Walk
 * Sandwich jambon fromage
 * Coffee, Personal Projects, Tweets, Walk, Course
 
+21 Jan 2024
+-----------
+Reflexion personelle
+* Cleaning, Lunch, Walk, Coffee
+
 .. note::
 
    This project is under active development.
