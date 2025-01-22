@@ -71,6 +71,27 @@ Reflexion personelle:
 * "Qu'est ce que c'est ce que ce devellopeur en finance qui va au secours catholique"
 * Quand le respect de la dignité est beaucoup plus basé sur le paraitre
 
+
+Cirque et creativite romaine
+----------------------------
+
+Reflexion personelle
+"A partir du 31 Janvier voila ce qu'on prepare:"
+
+* "3 coups pour notre Quasimodo qui est loin d'etre construit"
+* "Un petit tour en prison"
+* "Il dormira sur sans matelas"
+* "Apres queelques histoires à droite à gauche ou il sera en mode vagabond"
+* "Puis il rencontrea une de nos putes"
+* "Il passera des jolies mooments avec elle et ses copines"
+* "Puis notre heros don juan arrive"
+* "Notre quasimodo se retreouve à tenir la bougie"
+* "Notre pauvre quasimodo se retrouve comme un petit gamin naif"
+* "La jeune fille fit à quasimodo qu'elle prefere qu'ils restent amis"
+* "Le naif se reveillera dans la lumiere"
+* "Un petit coup de blues et il se suicidera"
+
+
 .. note::
 
    This project is under active development.
