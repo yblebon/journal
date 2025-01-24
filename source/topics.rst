@@ -14,8 +14,6 @@ Journal: Topics
 
 
 
-McDo Poop Psyop
----------------
 
 Le problème du journal
 ---------------------
@@ -90,6 +88,15 @@ Reflexion personelle
 * "La jeune fille fit à quasimodo qu'elle prefere qu'ils restent amis"
 * "Le naif se reveillera dans la lumiere"
 * "Un petit coup de blues et il se suicidera"
+
+
+Pipi & Caca
+-----------    
+Reflexion personelle:
+
+* Quels genres d'individus passent leurs temps à boucher les toilettes de certains endroits et y trouvent du plaisir?
+* S'appuyant sur leurs arrogances, ils pensent toujours faire croire basée sur Google maps ou autres, que la nouvelle bibliothèque est toujours un asile
+* Ils pensent faire croire ça a qui: "aux gens qui habitent en corée du nord?" haha
 
 
 .. note::
