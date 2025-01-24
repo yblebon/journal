@@ -65,6 +65,16 @@ CV, Food, Walk
 Reflexion personelle
 * Cleaning, Lunch, Walk, Coffee, Food Provisionning, Coding, Tweeting
 
+24 Jan 2024
+-----------
+* Breakfast
+* Cleaning
+* Journaux
+* Job hunting
+* Coffee
+
+
+
 .. note::
 
    This project is under active development.
