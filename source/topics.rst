@@ -97,7 +97,8 @@ Reflexion personelle:
 * Quels genres d'individus passent leurs temps à boucher les toilettes de certains endroits et y trouvent du plaisir?
 * S'appuyant sur leurs arrogances, ils pensent toujours faire croire basée sur Google maps ou autres, que la nouvelle bibliothèque est toujours un asile
 * Ils pensent faire croire ça a qui: "aux gens qui habitent en corée du nord?" haha
-
+* "la femme va croire qu'il se moque de lui avec le debouchage de toilettes, le lendemain il dormira sous la pluie"
+* "toilette bouchéé, il ne pourra pas pisser, s'il va dans la cuisine de la boulangerie, ca sera lui qui a infecte les pains aux chocolats, s'il va dehors il voudra certainement pisser aux toilettes publique du centre ville, on a une video de lui allant dans les toilettes apres qu'un arabe est reste aux toilettes un peu trop longtemps, on dira qu'il a depose un truc dans les toilettes publiques" 
 
 .. note::
 
