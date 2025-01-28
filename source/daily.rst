@@ -73,7 +73,12 @@ Reflexion personelle
 * Job hunting
 * Coffee
 
-
+28 Jan 2024
+-----------
+* Viennoiserie
+* Food provisionning
+* Personal project
+* Job hunting 
 
 .. note::
 
