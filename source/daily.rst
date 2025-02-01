@@ -92,7 +92,9 @@ Reflexion personelle
 * coffee
 * mediathèque
 * quick shopping
-* train
+* train to Paris
+* arrival in Paris
+* rest and multifruit juice drink
 
 .. note::
 
