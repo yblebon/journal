@@ -14,58 +14,58 @@ Journal: daily notes
 ===================================
 
 
-06 Jan 2024
+06 Jan 2025
 -----------
 Coffee time, personal projects, job hunting
 
-07 Jan 2024
+07 Jan 2025
 -----------
 McDo & Poop Psyop day
 
-08 Jan 2024
+08 Jan 2025
 -----------
 Coffee time, Mediatheque, Walk, Personal projects 
 
-09 Jan 2024
+09 Jan 2025
 -----------
 Mediathèque: le probleme du Journal qui gene
 
-10 Jan 2024
+10 Jan 2025
 -----------
 Vendredi soir pas de sortis
 
-11 Jan 2024
+11 Jan 2025
 -----------
 Samedi Een bierje > "let's tease him a bit with hot topics" > "Drama Drama"
 
-12 Jan 2024
+12 Jan 2025
 -----------
 Dimanche pas de bierje. Dimanche matin balayage :)
 
-13 Jan 2024
+13 Jan 2025
 -----------
 A essayer la formule pizza + ice tea le matin, puis une pause cafe en essayant de fixer ce vieux ordi un peu farfelu
 
-14 Jan 2024
+14 Jan 2025
 -----------
 CV, Food, Walk
 
-17 Jan 2024
+17 Jan 2025
 -----------
 * Pasta & legumes
 * Coffee, Job Hunting, Mediathèque, Personal project
 
-18 Jan 2024
+18 Jan 2025
 -----------
 * Sandwich jambon fromage
 * Coffee, Personal Projects, Tweets, Walk, Course
 
-21 Jan 2024
+21 Jan 2025
 -----------
 Reflexion personelle
 * Cleaning, Lunch, Walk, Coffee, Food Provisionning, Coding, Tweeting
 
-24 Jan 2024
+24 Jan 2025
 -----------
 * Breakfast
 * Cleaning
@@ -73,12 +73,26 @@ Reflexion personelle
 * Job hunting
 * Coffee
 
-28 Jan 2024
+28 Jan 2025
 -----------
 * Viennoiserie
 * Food provisionning
 * Personal project
 * Job hunting 
+
+29 Jan 2025
+-----------
+* Nothing special
+
+01 Feb 2025
+-----------
+* short sleep
+* cold feet
+* long walk
+* coffee
+* mediathèque
+* quick shopping
+* train
 
 .. note::
 
