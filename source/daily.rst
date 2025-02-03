@@ -96,6 +96,14 @@ Reflexion personelle
 * arrival in Paris
 * rest and multifruit juice drink
 
+03 Feb 2025
+-----------
+* paperwork
+* job hunting
+* tweets
+* beach walk
+
+
 .. note::
 
    This project is under active development.
