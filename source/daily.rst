@@ -103,6 +103,12 @@ Reflexion personelle
 * tweets
 * beach walk
 
+05 Feb 2025
+-----------
+* walk city center visit
+* job hunting
+* dune walk 
+* chill
 
 .. note::
 
