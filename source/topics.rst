@@ -100,6 +100,17 @@ Reflexion personelle:
 * "la femme va croire qu'il se moque de lui avec le debouchage de toilettes, le lendemain il dormira sous la pluie"
 * "toilette bouchéé, il ne pourra pas pisser, s'il va dans la cuisine de la boulangerie, ca sera lui qui a infecte les pains aux chocolats, s'il va dehors il voudra certainement pisser aux toilettes publique du centre ville, on a une video de lui allant dans les toilettes apres qu'un arabe est reste aux toilettes un peu trop longtemps, on dira qu'il a depose un truc dans les toilettes publiques" 
 
+Scenario: police africain
+------------------------
+* apres avoir obtenu son diplome à l'ecole 42
+* le jeune est devenu grand et il commence a travailler pour la societe de Telecom qui porte son nom Yas
+* il se trouvait alors devant deux options
+* soit saboter l'entreprise liée  à la supercherie de sa vie (1)
+* soit accepter son sort (2)
+* en acceptant l'option (1) on dira que c'est lui le responsable du "nuke" qui a eu dans son entreprise, on se dirige vers le profil "demolition man"
+* en acceptant l'option (2) on dira que c'est lui le responsable des ecoutes télephoniques passant dans tous les fibres optiques
+
+
 .. note::
 
    This project is under active development.
