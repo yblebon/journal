@@ -110,6 +110,24 @@ Reflexion personelle
 * dune walk 
 * chill
 
+11 Feb 2025
+-----------
+* bibliotek
+* city tour
+* grocery
+* chill
+* personal project
+* diner
+* one biertje
+* night walk
+* chill
+
+12 Feb 2025
+-----------
+* morning walk
+* coffee
+* bibliotek
+
 .. note::
 
    This project is under active development.
