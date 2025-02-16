@@ -110,7 +110,14 @@ Scenario: police africain
 * en acceptant l'option (1) on dira que c'est lui le responsable du "nuke" qui a eu dans son entreprise, on se dirige vers le profil "demolition man"
 * en acceptant l'option (2) on dira que c'est lui le responsable des ecoutes télephoniques passant dans tous les fibres optiques
 
-
+Scenario: chansons
+------------------------
+Reflexion musicale:
+* on ne peut ignorer le plagiat dans les chansons francaises.
+* cinquieme AS, Mach 6, Chapitre 7 qui correspond un peu au système de 3G, 4G, 5G les albums de booba
+* de jean jacques goldman on peut constater l'inversion de "tu es de ma famille" a "tu n'es pas de la famille" de Kalash Criminal
+* dans le nouvel album de Kendrick Lamar il y a clairement des influences francaises, "Arkansas" de Mc Solaar in "Reincernated"
+* "on est nombreux mais on est pas milles" tu n'es pas de la famille, Kalash Criminel >  "c'est le parrain qui me rend malade, on ne sait pas combien on a mais on sait qu'on a beaucoup", Eyla(haylah) MHD
 
 .. note::
 
