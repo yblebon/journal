@@ -128,6 +128,18 @@ Reflexion personelle
 * coffee
 * bibliotek
 
+04 Mars 2025
+-----------
+* morning walk
+* bibliotek & coffee
+* book of the day: Le premier homme, Albert Camus & the monday to friday man
+
+16 Mars 2025
+-----------
+* morning breakfast on the sun 
+* catching up with french songs
+* trying to plan the next week
+
 .. note::
 
    This project is under active development.
