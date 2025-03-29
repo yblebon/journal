@@ -66,3 +66,8 @@ Noordwijk <> Amsterdam
 .. image:: https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmbQ6pwEQmLvk463cwr4Eisxey9nfwmeGmp9bJagsEREdh
   :width: 400
   :alt: Alternative tex
+
+* "lisse" - 27/03/2025
+.. image:: https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmdGLxwTfQir4VBWJDx8cKCL9TX6xZCM5ZGJoUatuH2U3q
+  :width: 400
+  :alt: Alternative tex
