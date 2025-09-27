@@ -140,6 +140,15 @@ Reflexion personelle
 * catching up with french songs
 * trying to plan the next week
 
+27 Septembre 2025
+-----------
+* morning walk
+* bag deposit
+* breakfask & lunch
+* News reading
+* Job application
+
+
 .. note::
 
    This project is under active development.
