@@ -119,6 +119,13 @@ Reflexion musicale:
 * dans le nouvel album de Kendrick Lamar il y a clairement des influences francaises, "Arkansas" de Mc Solaar in "Reincernated"
 * "on est nombreux mais on est pas milles" tu n'es pas de la famille, Kalash Criminel >  "c'est le parrain qui me rend malade, on ne sait pas combien on a mais on sait qu'on a beaucoup", Eyla(haylah) MHD
 
+Bulling
+-------------------------
+Relexion personelle: "Et si je te bullye avec ton propre journal"
+* I'm just nobody online
+* I maybe somebody then
+* Il y anguille sous roches, pas besoin d'analyser 
+
 .. note::
 
    This project is under active development.
