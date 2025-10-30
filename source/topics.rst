@@ -121,10 +121,16 @@ Reflexion musicale:
 
 Bulling
 -------------------------
-Relexion personelle: "Et si je te bullye avec ton propre journal"
+Reflexion personelle: "Et si je te bullye avec ton propre journal"
 * I'm just nobody online
 * I maybe somebody then
 * Il y anguille sous roches, pas besoin d'analyser 
+
+Coffee thinking
+-------------------------
+Reflexion personelle: Qu'est ce qui fait l'excellence d'un café ?
+* Peut être le gout, l'intensité, le choix personel
+* Chaque endroit à son petit truc à apporter
 
 .. note::
 
