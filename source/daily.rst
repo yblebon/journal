@@ -148,6 +148,14 @@ Reflexion personelle
 * News reading
 * Job application
 
+30 October 2025
+-----------
+* morning relaxation and breakfast
+* morning routine walk (singing the foot in the water)
+* backpackdeposit
+* coffee place chill time
+* playing and testing with Github Copilot for a "todo list" enhancemen
+
 
 .. note::
 
