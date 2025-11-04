@@ -160,8 +160,8 @@ Reflexion personelle
 -----------
 * morning walk
 * backpack deposit
-* tea place
-* marie blanchere for chill morning 
+* tea place pour une ambiance plutôt locale
+* marie blanchere pour une ambiance plutot chill café work
 
 
 .. note::
