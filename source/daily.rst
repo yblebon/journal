@@ -152,9 +152,16 @@ Reflexion personelle
 -----------
 * morning relaxation and breakfast
 * morning routine walk (singing the foot in the water)
-* backpackdeposit
+* backpack deposit
 * coffee place chill time
-* playing and testing with Github Copilot for a "todo list" enhancemen
+* playing and testing with Github Copilot for a "todo list" enhancement
+
+04 November 2025
+-----------
+* morning walk
+* backpack deposit
+* tea place
+* marie blanchere for chill morning 
 
 
 .. note::
