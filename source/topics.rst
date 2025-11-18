@@ -132,6 +132,13 @@ Reflexion personelle: Qu'est ce qui fait l'excellence d'un café ?
 * Peut être le gout, l'intensité, le choix personel
 * Chaque endroit à son petit truc à apporter
 
+Thinking inhibition welfare
+-------------------------
+Reflexion personelle: destruction and dependency injection though assistance
+* How fear can be used to inhibate creativity
+* The "power" of the numbers versus one
+* The freeze manipulation strategy to create trauma
+
 .. note::
 
    This project is under active development.

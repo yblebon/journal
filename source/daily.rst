@@ -163,6 +163,14 @@ Reflexion personelle
 * tea place pour une ambiance plutôt locale
 * marie blanchere pour une ambiance plutot chill café work
 
+18 November 2025
+-----------
+* morning walk to the city
+* breakfast on the bench with the sun
+* coffee hangout and personal projects
+* city walks
+
+
 
 .. note::
 
