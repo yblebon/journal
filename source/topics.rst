@@ -113,6 +113,7 @@ Scenario: police africain
 Scenario: chansons
 ------------------------
 Reflexion musicale:
+
 * on ne peut ignorer le plagiat dans les chansons francaises.
 * cinquieme AS, Mach 6, Chapitre 7 qui correspond un peu au système de 3G, 4G, 5G les albums de booba
 * de jean jacques goldman on peut constater l'inversion de "tu es de ma famille" a "tu n'es pas de la famille" de Kalash Criminal
@@ -122,6 +123,7 @@ Reflexion musicale:
 Bulling
 -------------------------
 Reflexion personelle: "Et si je te bullye avec ton propre journal"
+
 * I'm just nobody online
 * I maybe somebody then
 * Il y anguille sous roches, pas besoin d'analyser 
@@ -129,12 +131,14 @@ Reflexion personelle: "Et si je te bullye avec ton propre journal"
 Coffee thinking
 -------------------------
 Reflexion personelle: Qu'est ce qui fait l'excellence d'un café ?
+
 * Peut être le gout, l'intensité, le choix personel
 * Chaque endroit à son petit truc à apporter
 
 Canard ou Foie gras
 -------------------------
 Reflexion personelle: destruction and dependency injection though assistance
+
 * How fear can be used to inhibate creativity
 * The "power" of the numbers versus one
 * The freeze manipulation strategy to create trauma
@@ -142,6 +146,7 @@ Reflexion personelle: destruction and dependency injection though assistance
 L'humour à la française et la blague des 3 nains
 -------------------------
 Reflexion personelle: serait de l'auto-dérision?
+
 * jaune: Taille moyenne des hommes en France - Autour de 176–177 cm
 * rouge: Mélissa Theuriau, personnalité préférée des Français en 2025 - Jamel Debbouze
 * bleu:  Le plus jeune premier ministre français est homosexuel - Gabriel Attal
