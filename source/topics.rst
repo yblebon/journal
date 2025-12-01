@@ -132,12 +132,19 @@ Reflexion personelle: Qu'est ce qui fait l'excellence d'un café ?
 * Peut être le gout, l'intensité, le choix personel
 * Chaque endroit à son petit truc à apporter
 
-Thinking inhibition welfare
+Canard ou Foie gras
 -------------------------
 Reflexion personelle: destruction and dependency injection though assistance
 * How fear can be used to inhibate creativity
 * The "power" of the numbers versus one
 * The freeze manipulation strategy to create trauma
+
+L'humour à la française et la blague des 3 nains
+-------------------------
+Reflexion personelle: serait de l'auto-dérision?
+* jaune: Taille moyenne des hommes en France - Autour de 176–177 cm
+* rouge: Mélissa Theuriau, personnalité préférée des Français en 2025 - Jamel Debbouze
+* bleu:  Le plus jeune premier ministre français est homosexuel - Gabriel Attal
 
 .. note::
 

@@ -170,7 +170,11 @@ Reflexion personelle
 * coffee hangout and personal projects
 * city walks
 
-
+O1 December 2025
+-----------
+* moving for the moment from the forest "camping" to "city" due to the flood
+* quick stretching and yoga
+* coffee hangout, france travail meeting, day planning
 
 .. note::
 
