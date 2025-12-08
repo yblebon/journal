@@ -151,6 +151,15 @@ Reflexion personelle: serait de l'auto-dérision?
 * rouge: Mélissa Theuriau, personnalité préférée des Français en 2025 - Jamel Debbouze
 * bleu:  Le plus jeune premier ministre français est homosexuel - Gabriel Attal
 
+
+La place des histoires greco romaines dans la vie moderne
+-------------------------
+Reflexion personelle: qui est Leonidas ?
+
+* Leonidas I was king of the Ancient Greek city-state of Sparta. He was the son of king Anaxandridas II and the 17th king of the Agiad dynasty, a Spartan royal house which claimed descent from Heracles.
+* Les chocolats Leonidas sont élaborés en Belgique. Nos Maîtres Chocolatiers respectent la tradition et transforment avec amour les ingrédients les plus fins.
+* Sotiris avait 24 ans: il était l’un des héritiers de l’empire chocolatier Leonidas. Le jeune homme est mort sur le coup. Sa petite amie âgée de 21 ans avait une blessure grave à la tête et à la jambe. Conduite aux urgences, elle a été opérée. 
+
 .. note::
 
    This project is under active development.

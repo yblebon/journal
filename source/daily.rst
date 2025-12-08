@@ -176,6 +176,11 @@ O1 December 2025
 * quick stretching and yoga
 * coffee hangout, france travail meeting, day planning
 
+O8 December 2025
+-----------
+* Fresh week and morning routine 
+
+
 .. note::
 
    This project is under active development.
