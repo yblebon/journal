@@ -178,9 +178,19 @@ O1 December 2025
 
 O8 December 2025
 -----------
-* Fresh week and morning routine 
+* Fresh week and morning routine
+
+22 December 2025
+-----------
+* Un bon sommeil, après un samedi soir bien arrosé
+* Petit pause chocolatine
+* Body cleaning and business as usual
+
+
 
 
 .. note::
 
    This project is under active development.
+
+
