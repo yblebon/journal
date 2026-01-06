@@ -160,6 +160,15 @@ Reflexion personelle: qui est Leonidas ?
 * Les chocolats Leonidas sont élaborés en Belgique. Nos Maîtres Chocolatiers respectent la tradition et transforment avec amour les ingrédients les plus fins.
 * Sotiris avait 24 ans: il était l’un des héritiers de l’empire chocolatier Leonidas. Le jeune homme est mort sur le coup. Sa petite amie âgée de 21 ans avait une blessure grave à la tête et à la jambe. Conduite aux urgences, elle a été opérée. 
 
+
+L'usage de l'IA dans la vie d'un développeur
+-------------------------
+Reflexion personelle: quels sont les atouts personnels?
+
+* Super pratique, plus le modèle est stable, plus l'experience utilisateur est meilleur
+* Pour un developpeur beginner, le risque que l'IA produit ce que l'on veut faire, sans forcement ce que l'on doit faire. 
+* D'où l'importance d'avoir des bonnes gestes reflexes
+
 .. note::
 
    This project is under active development.

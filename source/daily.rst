@@ -186,6 +186,13 @@ O8 December 2025
 * Petit pause chocolatine
 * Body cleaning and business as usual
 
+06 January 2026
+-----------
+* Reveil de bon matin comme c'est peu la routine actuellement
+* Petite marche en ville pour prendre un café dans une boulangerie, puis petite pause croissant dans le café habituel pour lire les news
+
+
+
 
 
 
