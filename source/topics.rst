@@ -169,6 +169,14 @@ Reflexion personelle: quels sont les atouts personnels?
 * Pour un developpeur beginner, le risque que l'IA produit ce que l'on veut faire, sans forcement ce que l'on doit faire. 
 * D'où l'importance d'avoir des bonnes gestes reflexes
 
+L'usage de l'IA dans la vie d'un développeur
+-------------------------
+Reflexion personelle: quels sont les atouts personnels?
+
+* Super pratique, plus le modèle est stable, plus l'experience utilisateur est meilleur
+* Pour un developpeur beginner, le risque que l'IA produit ce que l'on veut faire, sans forcement ce que l'on doit faire. 
+* D'où l'importance d'avoir des bonnes gestes reflexes
+
 .. note::
 
    This project is under active development.
