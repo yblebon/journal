@@ -15,6 +15,7 @@ Welcome to Yasser B. Lebon Journal!
    daily 
    topics
    trips
+   cases
 .. note::
 
    This project is under active development.
