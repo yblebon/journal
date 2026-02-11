@@ -191,6 +191,10 @@ O8 December 2025
 * Reveil de bon matin comme c'est peu la routine actuellement
 * Petite marche en ville pour prendre un café dans une boulangerie, puis petite pause croissant dans le café habituel pour lire les news
 
+11 February 2026
+-----------
+* Retour à la routine quotidienne avec cet petit trip vers le nord en passant par Pays et Lille
+
 
 
 
