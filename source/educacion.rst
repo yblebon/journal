@@ -12,8 +12,7 @@
 Journal: Educacion
 ===================================
 
-
-What exactly is Lok Sabha?
+Indian Legislature: The Lok Sabha & The Rajya Sabha
 ---------------------
 
 What exactly is Lok Sabha?:
