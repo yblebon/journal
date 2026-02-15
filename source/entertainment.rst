@@ -3,21 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-
-
-Welcome to Yasser B. Lebon Journal!
-===================================
-
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :caption: Contents:
 
-   educacion
-   daily 
-   topics
-   trips
-   entertainment
-   cases
-.. note::
 
-   This project is under active development.
+
+Journal: Entertainment
+===================================
+
+
+
+
+
+---------------------

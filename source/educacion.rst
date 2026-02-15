@@ -46,3 +46,14 @@ Risk:
 
 https://polsci.institute/constitutional-gov-democracy-india/rajya-sabha-structure-powers-india-upper-house/
 
+Iran's annual Fajr International Film Festival
+---------------------------------------------
+* Iran's annual Fajr International Film Festival (Persian: جشنواره بین‌المللی فیلم فجر), or Fajr Film Festival (little: FIFF; Persian: جشنواره فیلم فجر), has been held every February in Tehran since 1983
+* Discovery of the day: https://en.wikipedia.org/wiki/Enayatollah_Bakhshi
+
+
+
+Rastriya Panchayat
+--------------------------------
+* Panchayat (Nepali: पञ्चायत) was a political system in Nepal from 1961 to 1990. It banned political parties and placed all governmental power, including power over the Council of Ministers and Federal Parliament, under the sole authority of the king; this made the country a de facto absolute monarchy.[1][2]
+* This was encapsulated in the slogan, Ek Raja, Ek Bhesh, Ek Bhasa (one king, one dress, one language).[3]
