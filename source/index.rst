@@ -12,6 +12,7 @@ Welcome to Yasser B. Lebon Journal!
    :maxdepth: 2
    :caption: Contents
 
+   educacion
    daily 
    topics
    trips
