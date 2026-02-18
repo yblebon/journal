@@ -18,6 +18,7 @@ Welcome to Yasser B. Lebon Journal!
    trips
    entertainment
    cases
+   history
 .. note::
 
    This project is under active development.
