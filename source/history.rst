@@ -22,7 +22,9 @@ Frédégonde:
 
 
 
-Salvador-Honduras 1969, ou comment un match de football peut déclencher une guerre entre deux pays:
+Salvador-Honduras 1969
+---------------------
+Comment un match de football peut déclencher une guerre entre deux pays:
 
 *  La situation s’inverse en quelques années : le pays d’accueil connait une augmentation importante de sa démographie grâce à une hausse de la natalité. À cela s’ajoute une immigration incessante. Le Honduras est alors confronté au même problème que le Salvador quelque temps auparavant : il faut installer une réforme afin de mieux contrôler la répartition des terres. Les grands propriétaires terriens voient avec le bannissement des travailleurs salvadoriens un bon moyen de gagner de l’argent et de se prémunir des conséquences néfastes de la nouvelle politique agraire à venir. Les élites honduriennes dirigent leurs décisions non pas contre leurs compatriotes, mais contre les paysans salvadoriens, qui sont les seuls à trinquer. Beaucoup sont bannis des terres qu’ils avaient achetées, d’autres sont écrasés de taxes.
 
