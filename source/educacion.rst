@@ -93,7 +93,7 @@ Tit and That
 
 - Non-cooperative or unpredictable opponents.
 - Many-to-one opponent load that can overburden the agent.
-- Resource bottlenecks in sustained multi-agent scenarios.
-- Isolation reducing identity stability.
+- Resource bottlenecks in sustained multi-opponents scenarios.
+- Agent isolation reducing identity stability.
 - Mind control risk altering cooperative behavior.
 - The opponent acting as a “dance maestro,” controlling rhythm and flow.
