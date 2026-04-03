@@ -64,8 +64,9 @@ Tit and that
 * Tit and that is a highly effective strategy in game theory. An agent using this strategy will first cooperate, then subsequently replicate an opponent's previous action. If the opponent previously was cooperative, the agent is cooperative. If not, the agent defects. This is similar to reciprocal altruism in biology. 
 
 * Loopholes:
-  - crazy terrorists non cooperative opponents
-  - constant many (opponents) to one (agent) load that can reduce mind control on the agent
-  - agent ressources can become quicky a bottleneck especially in a rolling opponent strategy
-  - mind control risk that can switch the agent behaviour from cooperative to non cooperative adopting the opponents behaviour
-  - the opponent is the dance maestro
+  * crazy terrorists non cooperative opponents
+  * constant many (opponents) to one (agent) load that can reduce mind control on the agent
+  * agent ressources can become quicky a bottleneck especially in a rolling opponent strategy
+  * agent isolation that can reduce risk of identity destabilization
+  * mind control risk that can switch the agent behaviour from cooperative to non cooperative adopting the opponents behaviour
+  * the opponent is the dance maestro
