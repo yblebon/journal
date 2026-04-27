@@ -195,7 +195,7 @@ Reflexion personelle: profil d'un colon nostalgique au XXI siecle
 * Le colon est bien organisé
 * Le colon te percoit comme comment il veut te voir, pas ce que tu es
 * Les filles de colons s'extasient quand leurs 'dogs' leur fassent une cunninlingus apres qu'elles viennent de se faire baiser ailleurs
-* Le colon est pret à utilisera sa fille comme appat pour avoir du beef
+* Le colon est pret à utiliser sa fille comme appat pour avoir du beef
 
 .. note::
 
