@@ -186,7 +186,7 @@ Le profil du colon au XXI siecle
 Reflexion personelle: profil d'un colon nostalgique au XXI siecle
 
 * Grooming tendencies
-* Avoir des bons "amis" noirs
+* Avoir des bons "amis" noirs / arabes / juifs
 * Le complexe du coco: le colon va plus miser sur le physique que sur l'intellect pour seduire
 * Le colon dira aux waiters de crasher dans ton verre parce qu'il veut pas te voir au pub ou aux restaurants comme lui
 * Le colon n'aime pas quand tu paies direct, le colon veut creer des dettes
@@ -197,6 +197,8 @@ Reflexion personelle: profil d'un colon nostalgique au XXI siecle
 * Les filles de colons s'extasient quand leurs 'dogs' leur fassent une cunninlingus apres qu'elles viennent de se faire baiser ailleurs
 * Le colon est pret à utiliser sa fille comme appat pour avoir du beef
 * Le colon voit la plus part des "africains" qui reussissent comme des canards, il aime feter la "soirée os de canards" et avoir du bon foie gras.
+* Le colon aime te voir chanter les chansons populaires surtout quand tu prends pas le temps de comprendre le sens
+* Le colon mettra un "Je" dans les chansons pour cacher "Il/elle et pas moi"
 
 
 .. note::
