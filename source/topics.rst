@@ -196,6 +196,8 @@ Reflexion personelle: profil d'un colon nostalgique au XXI siecle
 * Le colon te percoit comme comment il veut te voir, pas ce que tu es
 * Les filles de colons s'extasient quand leurs 'dogs' leur fassent une cunninlingus apres qu'elles viennent de se faire baiser ailleurs
 * Le colon est pret à utiliser sa fille comme appat pour avoir du beef
+* Le colon voit la plus part des "africains" qui reussissent comme des canards, il aime feter la "soirée os de canards" et avoir du bon foie gras.
+
 
 .. note::
 
