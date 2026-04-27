@@ -180,3 +180,20 @@ Reflexion personelle: quels sont les atouts personnels?
 .. note::
 
    This project is under active development.
+
+Le profil du colon au XXI siecle
+-------------------------
+Reflexion personelle: profil d'un colon nostalgique au XXI siecle
+
+* Grooming tendencies
+* Avoir des bons "amis" noirs
+* Le complexe du coco: le colon va plus miser sur le physique que sur l'intellect pour seduire
+* Le colon dira aux waiters de crasher dans ton verre parce qu'il veut pas te voir au pub ou aux restaurants comme lui
+* Le colon aime venir faire le heros pour regler les problemes qu'il a volontairement crée dans ta vie
+* Le colon est bien organisé
+* Le colon te percoit comme comment il veut te voir, pas ce que tu es
+* 
+
+.. note::
+
+   This project is under active development.
