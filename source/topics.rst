@@ -198,8 +198,7 @@ Reflexion personelle: profil d'un colon nostalgique au XXI siecle
 * Le colon est pret à utiliser sa fille comme appat pour avoir du beef
 * Le colon voit la plus part des "africains" qui reussissent comme des canards, il aime feter la "soirée os de canards" et avoir du bon foie gras.
 * Le colon aime te voir chanter les chansons populaires surtout quand tu prends pas le temps de comprendre le sens
-* Le colon mettra un "Je" dans les chansons pour cacher "Il/elle et pas moi"
-
+* Le colon mettra un "Je" pour créer un sentiment de closure
 
 .. note::
 
