@@ -189,10 +189,13 @@ Reflexion personelle: profil d'un colon nostalgique au XXI siecle
 * Avoir des bons "amis" noirs
 * Le complexe du coco: le colon va plus miser sur le physique que sur l'intellect pour seduire
 * Le colon dira aux waiters de crasher dans ton verre parce qu'il veut pas te voir au pub ou aux restaurants comme lui
+* Le colon n'aime pas quand tu paies direct, le colon veut creer des dettes
+* Le colon aimer appliquer le social credit system et ame plomber la notation
 * Le colon aime venir faire le heros pour regler les problemes qu'il a volontairement crée dans ta vie
 * Le colon est bien organisé
 * Le colon te percoit comme comment il veut te voir, pas ce que tu es
-* 
+* Les filles de colons s'extasient quand leurs 'dogs' leur fassent une cunninlingus apres qu'elles viennent de se faire baiser ailleurs
+* Le colon est pret à utilisera sa fille comme appat pour avoir du beef
 
 .. note::
 
