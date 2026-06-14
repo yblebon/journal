@@ -200,6 +200,12 @@ Reflexion personelle: profil d'un colon nostalgique au XXI siecle
 * Le colon aime te voir chanter les chansons populaires surtout quand tu prends pas le temps de comprendre le sens
 * Le colon mettra un "Je" pour créer un sentiment de closure
 
+La fameuse recette du poisson curry bien pimenté
+-------------------------
+Reflexion personelle: premères bases pour devenir un bon cuisinier
+
+* Commencez par la marinade. Remuez le curcuma (1 c. à c) et le sel (1 c. à c)dans une jatte, puis ajoutez les morceaux de poisson et retournez-les pour les enrober de marinade. Placez 30 min au réfrigérateur.
+
 .. note::
 
    This project is under active development.
