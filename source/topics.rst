@@ -205,6 +205,7 @@ La fameuse recette du poisson curry bien pimenté
 Reflexion personelle: premères bases pour devenir un bon cuisinier
 
 * Commencez par la marinade. Remuez le curcuma (1 c. à c) et le sel (1 c. à c)dans une jatte, puis ajoutez les morceaux de poisson et retournez-les pour les enrober de marinade. Placez 30 min au réfrigérateur.
+* Pendant ce temps, réduisez les gousses d’ail (6 gousses) et le gingembre (½ morceau de gingembre) en une pâte au pilon dans un mortier ou mixez au robot culinaire. 
 
 .. note::
 
