@@ -210,7 +210,7 @@ Reflexion personelle: premères bases pour devenir un bon cuisinier
 * Faites chauffer l’huile (8 c. à s. d’huile) à feu moyen dans une grande cocotte. Ajoutez les oignons hachés et faites cuire lentement, en baissant le feu sur doux-moyen et en remuant toutes les 4-5 min jusqu’à ce qu’ils soient tendres, légèrement colorés et imprégnés d’huile – cela prend au moins 15 min
 * Quand les oignons sont prêts, ajoutez l’ail et le gingembre écrasés et faites frire quelques minutes jusqu’à ce que les parfums se libèrent
 * Ajoutez les épices, la sauce nuoc-mâm et les tomates hachées, en les cassant légèrement quand vous remuez. Faites mijoter 5-10 min.
-
+* Ajoutez le poisson et 100 ml d’eau. 
 .. note::
 
    This project is under active development.
