@@ -212,6 +212,7 @@ Reflexion personelle: premères bases pour devenir un bon cuisinier
 * Ajoutez les épices, la sauce nuoc-mâm et les tomates hachées, en les cassant légèrement quand vous remuez. Faites mijoter 5-10 min.
 * Ajoutez le poisson et 100 ml d’eau.
 * Portez à ébullition et couvrez, puis faites mijoter à feu doux 5-10 min jusqu’à ce que le poisson soit cuit.
+* Décorez avec les feuilles de coriandre, si vous aimez, et les échalotes croustillantes pour ajouter une texture supplémentaire.
 
 .. note::
 
