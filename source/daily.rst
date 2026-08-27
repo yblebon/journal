@@ -195,7 +195,14 @@ O8 December 2025
 -----------
 * Retour à la routine quotidienne avec cet petit trip vers le nord en passant par Pays et Lille
 
-
+27 August 2026
+-----------
+* Le temps n'est pas top top, il faudra "danser sous la pluie"
+* La petite marche matinale
+* Petit café pour se reveiller tout doucement
+* Un peu d'escapade en ligne pour des nouveaux horizons
+* Un peu de diplomatie sur la sensibilité de l'ouie des personnes agées
+* Lecture des actualités du jour
 
 
 
